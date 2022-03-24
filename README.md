@@ -1,4 +1,4 @@
-- @TuckerRM
+- @Tucker Moffat
 - Robotics Undergraduate
 - University of Michigan
 
